@@ -1,0 +1,8 @@
+*.o
+*.gz
+*.out
+.nfs*
+.vscode/*
+tests/*
+client/.vscode/*
+submission/
